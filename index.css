@@ -1,0 +1,8 @@
+.container {
+}
+
+.item {
+  color: #fff;
+  font: 200% Arial, Helvetica, sans-serif;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+}
